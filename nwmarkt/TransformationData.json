@@ -1,0 +1,268 @@
+[
+  {
+    "OutputName": "Prismatic Ingot",
+    "variants": [
+      {
+        "variantName": "Variant1",
+        "craftingTax": 0.5,
+        "inputMaterials": [
+          {
+            "inputName": "Asmodeum",
+            "quantity": 1
+          },
+          {
+            "inputName": "Mythril Ingot",
+            "quantity": 10
+          },
+          {
+            "inputName": "Charcoal",
+            "quantity": 4
+          },
+          {
+            "inputName": "Obsidian Flux",
+            "quantity": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "OutputName": "Asmodeum",
+    "variants": [
+      {
+        "variantName": "Variant1",
+        "craftingTax": 0.19,
+        "inputMaterials": [
+          {
+            "inputName": "Orichalcum Ingot",
+            "quantity": 5
+          },
+          {
+            "inputName": "Tolvium",
+            "quantity": 1
+          },
+          {
+            "inputName": "Cinnabar",
+            "quantity": 1
+          },
+          {
+            "inputName": "Obsidian Flux",
+            "quantity": 1
+          },
+          {
+            "inputName": "Charcoal",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "variantName": "Variant2",
+        "craftingTax": 10.0,
+        "inputMaterials": [
+          {
+            "inputName": "Vial of Suspended Azoth",
+            "quantity": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "outputName": "Mythril Ingot",
+    "variants": [
+      {
+        "variantName": "Variant1",
+        "craftingTax": 0.22,
+        "inputMaterials": [
+          {
+            "inputName": "Mythril Ore",
+            "quantity": 12
+          },
+          {
+            "inputName": "Orichalcum Ingot",
+            "quantity": 2
+          },
+          {
+            "inputName": "Charcoal",
+            "quantity": 2
+          },
+          {
+            "inputName": "Obsidian Flux",
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "outputName": "Charcoal",
+    "variants": [
+      {
+        "variantName": "Variant1",
+        "craftingTax": 0.01,
+        "inputMaterials": [
+          {
+            "inputName": "Green Wood",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "variantName": "Variant2",
+        "craftingTax": 0.01,
+        "inputMaterials": [
+          {
+            "inputName": "Aged Wood",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "variantName": "Variant3",
+        "craftingTax": 0.01,
+        "inputMaterials": [
+          {
+            "inputName": "Wyrdwood",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "variantName": "Variant4",
+        "craftingTax": 0.01,
+        "inputMaterials": [
+          {
+            "inputName": "Ironwood",
+            "quantity": 2
+          }
+        ]
+      },
+      {
+        "variantName": "Variant5",
+        "craftingTax": 0.01,
+        "inputMaterials": [
+          {
+            "inputName": "Runewood",
+            "quantity": 2
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "outputName": "Orichalcum Ingot",
+    "variants": [
+      {
+        "variantName": "Variant1",
+        "craftingTax": 0.13,
+        "inputMaterials": [
+          {
+            "inputName": "Orichalcum Ore",
+            "quantity": 8
+          },
+          {
+            "inputName": "Starmetal Ingot",
+            "quantity": 2
+          },
+          {
+            "inputName": "Charcoal",
+            "quantity": 2
+          },
+          {
+            "inputName": "Obsidian Flux",
+            "quantity": 1
+          }
+        ]
+      },
+      {
+        "variantName": "Variant2",
+        "craftingTax": 0.13,
+        "inputMaterials": [
+          {
+            "inputName": "Orichalcum Ore",
+            "quantity": 8
+          },
+          {
+            "inputName": "Platinum Ingot",
+            "quantity": 3
+          },
+          {
+            "inputName": "Charcoal",
+            "quantity": 2
+          },
+          {
+            "inputName": "Obsidian Flux",
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "outputName": "Starmetal Ingot",
+    "variants": [
+      {
+        "variantName": "Variant1",
+        "craftingTax": 0.07,
+        "inputMaterials": [
+          {
+            "inputName": "Starmetal Ore",
+            "quantity": 6
+          },
+          {
+            "inputName": "Steel Ingot",
+            "quantity": 2
+          },
+          {
+            "inputName": "Charcoal",
+            "quantity": 2
+          },
+          {
+            "inputName": "Obsidian Flux",
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "outputName": "Steel Ingot",
+    "variants": [
+      {
+        "variantName": "Variant1",
+        "craftingTax": 0.07,
+        "inputMaterials": [
+          {
+            "inputName": "Iron Ingot",
+            "quantity": 3
+          },
+          {
+            "inputName": "Charcoal",
+            "quantity": 2
+          },
+          {
+            "inputName": "Obsidian Flux",
+            "quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "outputName": "Iron Ingot",
+    "variants": [
+      {
+        "variantName": "Variant1",
+        "craftingTax": 0.01,
+        "inputMaterials": [
+          {
+            "inputName": "Iron Ore",
+            "quantity": 4
+          }
+        ]
+      }
+    ]
+  }
+
+]
